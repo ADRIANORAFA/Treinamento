@@ -1,0 +1,7 @@
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.csproj.AssemblyReference.cache
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.AssemblyInfoInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.AssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.csproj.CoreCompileInputs.cache
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.MvcApplicationPartsAssemblyInfo.cs
+C:\Users\adria\OneDrive\Área de Trabalho\programinhas\final\Produtos\APIDatabaseProduto\APIDatabaseProduto\obj\Debug\net6.0\APIDatabaseProduto.MvcApplicationPartsAssemblyInfo.cache
